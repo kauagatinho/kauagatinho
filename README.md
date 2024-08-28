@@ -1,4 +1,4 @@
-## Hi there 👋
+**bem vindo au meu repositorio meu nome e kaua gatinho assuncao 
 
 <!--
 **kauagatinho/kauagatinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
